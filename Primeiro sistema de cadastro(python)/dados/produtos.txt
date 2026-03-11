@@ -1,0 +1,4 @@
+1, asasa, asas, 2, 22.0, adsdas
+2, cerveja, skol, 10, 22.0, bebida
+3, adads, asdasds, 33, 1.3, asdsd
+4, sdsd, sdsdsd, 22, 33.0, dasda

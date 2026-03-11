@@ -1,0 +1,5 @@
+1, ada, asasa, 16/11/2025, 1
+2, beatriz, cerveja, 16/11/2025, 2
+3, adsds, adads, 16/11/2025, 3
+4, adsd, sdsd, 16/11/2025, 4
+5, sdf, asds, 28/11/2025, 5
